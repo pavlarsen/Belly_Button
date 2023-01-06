@@ -1,0 +1,15 @@
+body {
+    color: #080808;
+    font-size: medium;
+    background-color: #0679aa22;
+  }
+  
+  .jumbotron {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIoM1QPGTOZrutEILA-jxoT4nomQg-ZFQUwg&usqp=CAU");
+    background-size: 100% 100%;
+    text-align: center;
+    font-size: 40px;
+    color: #fefefe;
+    font-style:bold;
+  }
+  
